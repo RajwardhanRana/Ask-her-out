@@ -7,7 +7,7 @@ function startQuestions() {
       document.getElementById("que").style.display = "none";
       document.getElementById("init").innerText = "YEY YEY 🎉🎉🎉";
     document.getElementById("message").style.display = "block";
-    document.getElementById("messageText").innerText = "";
+    document.getElementById("messageText").innerText = "BABY,BABY,BABY,BABY,BABY,BABY,BABYBABYBABY,BABY,BABY,BABY,BABY,BABY ";
     showConfetti()
 }
   
